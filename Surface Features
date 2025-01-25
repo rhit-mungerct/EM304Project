@@ -7,6 +7,7 @@ USED:
 6: knit surface
 7: extruded surface
 8: planar surface
+9: extend surface
 
 NOT USED:
 
@@ -18,7 +19,6 @@ surface flatten
 delete face
 replace face
 delete hole
-extend surface
 untrim surface
 thicken
 thicken cut
