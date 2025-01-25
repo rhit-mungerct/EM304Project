@@ -1,19 +1,19 @@
 USED:
-revolved surface
-lofted surface
-offset surface
-ruled surface
-trim surface
-knit surface
+1: revolved surface
+2: lofted surface
+3: offset surface
+4: ruled surface
+5: trim surface
+6: knit surface
+7: extruded surface
+8: planar surface
 
 NOT USED:
 
-extruded surface
 swept surface
 boundary surface
 filled surface
 freeform
-planar surface
 surface flatten
 delete face
 replace face
@@ -23,5 +23,6 @@ untrim surface
 thicken
 thicken cut
 cut with surface
-radiate, mid surface
+radiate
+mid surface
 parting surface
