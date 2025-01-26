@@ -8,6 +8,8 @@ USED:
 7: extruded surface
 8: planar surface
 9: extend surface
+10: thicken
+11: thicken cut
 
 NOT USED:
 
@@ -20,8 +22,6 @@ delete face
 replace face
 delete hole
 untrim surface
-thicken
-thicken cut
 cut with surface
 radiate
 mid surface
