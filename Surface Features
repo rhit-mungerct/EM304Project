@@ -10,10 +10,10 @@ USED:
 9: extend surface
 10: thicken
 11: thicken cut
+12: swept surface
 
 NOT USED:
 
-swept surface
 boundary surface
 filled surface
 freeform
