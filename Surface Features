@@ -11,6 +11,7 @@ USED:
 10: thicken
 11: thicken cut
 12: swept surface
+13: Replace face
 
 NOT USED:
 
@@ -19,7 +20,6 @@ filled surface
 freeform
 surface flatten
 delete face
-replace face
 delete hole
 untrim surface
 cut with surface
